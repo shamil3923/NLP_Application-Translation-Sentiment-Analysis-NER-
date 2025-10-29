@@ -1,10 +1,4 @@
-# Member 2: Sentiment Analysis Module
 
-**Student Name**: _________________  
-**Task**: Sentiment Analysis Implementation  
-**Date**: October 2025
-
----
 
 ## 📋 Task Overview
 
@@ -501,8 +495,4 @@ Confidence: Lower (~60%)
 **Hugging Face Model Card**:
 - https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english
 
----
 
-**Member 2 Signature**: _________________  
-**Date Completed**: _________________  
-**Grade**: _________________

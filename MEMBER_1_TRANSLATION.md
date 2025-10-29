@@ -1,10 +1,4 @@
-# Member 1: Language Translation Module
 
-**Student Name**: _________________  
-**Task**: Translation System Implementation  
-**Date**: October 2025
-
----
 
 ## 📋 Task Overview
 
@@ -383,9 +377,3 @@ English Input → Encoder → Universal Representation → Decoder → Any of 10
 - Helsinki-NLP/opus-mt-en-hi (Hindi)
 - Helsinki-NLP/opus-mt-en-dra (Dravidian/Tamil)
 - Helsinki-NLP/opus-mt-en-mul (Multilingual/Sinhala)
-
----
-
-**Member 1 Signature**: _________________  
-**Date Completed**: _________________  
-**Grade**: _________________
